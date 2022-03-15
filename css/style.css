@@ -1,0 +1,35 @@
+/* Core style */
+:root {
+    --green: #21bf73;
+}
+html {
+    scroll-behavior: smooth;
+}
+::selection {
+    background: #23D3D3;
+    color: white;
+}
+.card-title {
+    color: #343a40;
+}
+/* home style */
+.home {
+    background: #F0F5F9;
+    padding: 100px 0;
+}
+.card {
+    background: #f8f9fa;
+}
+#about-box {
+    background: #FFF2E5;
+}
+.card img {
+    width: 80px;
+}
+li {
+    list-style: none;
+}
+.date {
+    background: #F0F5F9;
+    padding: 50px 0;
+}
